@@ -1,2 +1,2 @@
 # Billing_Software_Design
-Its my freelancing project for my local business man
+Its my freelancing project for local business man
